@@ -356,6 +356,9 @@
         padding-bottom: 5px;
         height: auto;
     }
+    .table-order sup {
+        font-size: 8px;
+    }
 }
 
 /* Small Devices, Tablets */
