@@ -359,6 +359,9 @@
     .table-order sup {
         font-size: 8px;
     }
+    .form-personal {
+        max-width: 100%;
+    }
 }
 
 /* Small Devices, Tablets */
