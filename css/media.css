@@ -175,7 +175,7 @@
     .table-order table td:nth-child(3) {
         width: 183px;
     }
-    .status-td_wait {
+    .status-td {
         width: 2px;
     }
     .buttons-order .btn-main {
@@ -324,7 +324,7 @@
         border-radius: 10px;
         background-color: #ccc;
     }
-    .status-td_wait {
+    .status-td {
         top: 15px;
         bottom: 15px;
     }
@@ -349,6 +349,12 @@
     }
     .buttons-order_place {
         padding-top: 0;
+    }
+    .item-dropdown__head {
+        min-height: 52px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        height: auto;
     }
 }
 
